@@ -1,0 +1,21 @@
+Age,Tenure,MonthlyCharges,TotalCharges,Contract,InternetService,PaymentMethod,TechSupport,OnlineSecurity,Churn
+25,2,70.5,141.0,Month-to-month,DSL,Electronic check,No,No,Yes
+45,24,65.2,1564.8,One year,DSL,Bank transfer,Yes,Yes,No
+32,8,80.0,640.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+52,48,55.5,2664.0,Two year,DSL,Credit card,Yes,Yes,No
+29,5,90.2,451.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+41,36,72.0,2592.0,One year,Fiber optic,Bank transfer,Yes,No,No
+23,1,95.0,95.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+60,60,45.0,2700.0,Two year,DSL,Credit card,Yes,Yes,No
+35,18,68.5,1233.0,One year,DSL,Bank transfer,No,Yes,No
+27,3,88.0,264.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+48,30,62.0,1860.0,One year,DSL,Credit card,Yes,Yes,No
+38,12,75.0,900.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+55,50,50.0,2500.0,Two year,DSL,Bank transfer,Yes,Yes,No
+31,7,82.5,577.5,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+44,40,60.0,2400.0,Two year,DSL,Credit card,Yes,Yes,No
+26,4,92.0,368.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+50,28,67.0,1876.0,One year,DSL,Bank transfer,Yes,Yes,No
+36,15,78.0,1170.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes
+63,72,42.0,3024.0,Two year,DSL,Credit card,Yes,Yes,No
+30,6,85.0,510.0,Month-to-month,Fiber optic,Electronic check,No,No,Yes
