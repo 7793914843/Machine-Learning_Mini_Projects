@@ -1,0 +1,9 @@
+text,label
+"Congratulations! You won a prize","spam"
+"Hey, how are you?","ham"
+"Click here to win money","spam"
+"Can you send me the notes?","ham"
+"Win free money now","spam"
+"Are you coming to class today?","ham"
+"Claim your free gift","spam"
+"Please send me the assignment","ham"
